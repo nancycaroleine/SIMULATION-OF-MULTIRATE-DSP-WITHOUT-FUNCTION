@@ -1,5 +1,8 @@
 # EXP 6 : SPEECH RECOGNITION USING SCILAB
 
+**NAME   : NANCY CAROLEINE P R**
+**REG NO : 212223060181** 
+
 ## AIM: 
 
 To perform and verify multirate DSP without function using SCILAB.
